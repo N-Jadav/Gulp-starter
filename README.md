@@ -1,5 +1,7 @@
 # Gulp Starter Kit
 
+Gulp is yet another tool from open source community to automate repetitive tasks in web development. While tools like bower, npm (Node Package Manager) helps us to download and configure re-usable packages in our application, Gulp helps us to automate many of the time consuming repetitive client side tasks.
+
 This project serves as a demonstration of how Gulp can be utilized to automate various tasks in web development.
 
 ## Tasks
